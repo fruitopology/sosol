@@ -44,4 +44,4 @@ gem 'sucker_punch', '~> 1.0'
 gem 'with_advisory_lock', '~> 3.0.0'
 gem 'silencer'
 
-gem 'test_after_commit', '= 0.4.1', :group => :test
+gem 'test_after_commit', '1.2.2', :group => :test
